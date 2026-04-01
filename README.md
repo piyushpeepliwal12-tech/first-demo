@@ -1,2 +1,2 @@
 # first-demo
-first repo of mine learning
+first repo of mine learning hello
